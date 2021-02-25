@@ -6,4 +6,4 @@ Licensi
 
 GNU General Public License
 
-Oleh Kurniawan. xcode.or.id. E-mail : kurniawan@securityhub.id
+Oleh Kurniawan. xcode.or.id. E-mail : kurniawanajazenfone@gmail.com
